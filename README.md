@@ -1,59 +1,59 @@
-<h1>Hi, I'm Erick! <br/><a href="https://github.com/chaconcfdo">Programmer</a> | <a href="https://www.linkedin.com/in/ericarpiocv/">Senior Software Engineer</a>
+<h1>Hi, I'm Erick! <br/><a href="https://www.linkedin.com/in/ericarpiocv/">Software Engineer</a> | <a href="https://github.com/chaconcfdo">Programmer</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>🥷 About me:</h2>
 
-- <b><ins>Education</ins> International Higher Education Program Software</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b><ins>Education</ins> Dinning Room Softwaew</b>
+- <b>💻 Passionate about programming</b>
+- <b>👨‍🏫 Love for teaching</b>
+- <b>🌐 Web applications developer</b>
+- <b>🔭 I’m currently working as freelancer and consultant</b>
+
+<h2>👨‍💻 Software Projects:</h2>
+
+- <b>Own softwares</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 - <b>C# .Net</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 - <b>PHP</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>Web Applications</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>SQL</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>MySql</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 - <b>Python</b>
+  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
+- <b>SQL & Mysql</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 - <b>React</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>Good practices and performance</b>
+- <b>Software development good practices and performance</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 - <b>Web APIs</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 
-
-<h2><ins>Consultancy</ins>Design and patterns:</h2>
-
+<h2>Software architecture</h2>
 - <b>Design and patterns</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-
+- <b>Architecture patterns</b>
+  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 
 <h2>Testing:</h2>
-
-- <b>Software Testing</b>
+- <b>Unit Testing</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 
 <h2>Documentation:</h2>
-
-- <b>Software documentation</b>
+- <b>Guide</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 
 <h2>Project Management:</h2>
   - [Software estimation - In progress...](https://www.linkedin.com/in/ericarpiocv/)
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 
-- <b>Software documentation</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
+- <b>Good practices</b>
+  - [Documentation (In progres..)](https://www.linkedin.com/in/ericarpiocv/)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Erick's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Erick's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Erick's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[gmail]: mailto:ecarcha@gmail.com?subject=Contact from github
 [youtube]: https://www.youtube.com/@erickcarpio6965
 [linkedin]: https://www.linkedin.com/in/ericarpiocv/
 
