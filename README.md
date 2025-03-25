@@ -10,7 +10,7 @@
 
 <h2>🚀 Software Projects:</h2>
 
-- <b>Own softwares</b>
+- <b>Own software</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 - <b>C# .Net</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
