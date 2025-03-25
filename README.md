@@ -7,7 +7,7 @@
 - <b>🌐 Web applications developer</b>
 - <b>🔭 I’m currently working as freelancer and consultant</b>
 
-<h2>👨‍💻 Software Projects:</h2>
+<h2>🚀 Software Projects:</h2>
 
 - <b>Own softwares</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
@@ -21,32 +21,38 @@
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 - <b>React</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>Software development good practices and performance</b>
+- <b>Software development, good practices and performance</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 - <b>Web APIs</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
+- <b>Code versioning</b>
+  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
+ 
+<h2>🗼 Software architecture:</h2>
 
-<h2>Software architecture</h2>
-- <b>Design and patterns</b>
+- <b>Design patterns</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 - <b>Architecture patterns</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 
-<h2>Testing:</h2>
-- <b>Unit Testing</b>
+<h2>🧪 Testing:</h2>
+
+- <b>Unit testing</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 
-<h2>Documentation:</h2>
+<h2>📜 Documentation:</h2>
+
+- <b>Guide</b>
+  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
+ 
+<h2>⏳ Project Management:</h2>
+
+- <b>Software estimation</b>
+  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 - <b>Guide</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 
-<h2>Project Management:</h2>
-  - [Software estimation - In progress...](https://www.linkedin.com/in/ericarpiocv/)
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-
-- <b>Good practices</b>
-  - [Documentation (In progres..)](https://www.linkedin.com/in/ericarpiocv/)
-
+<br>
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="Erick's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
