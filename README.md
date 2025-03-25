@@ -2,10 +2,11 @@
 
 <h2>🥷 About me:</h2>
 
-- <b>💻 Passionate about programming</b>
-- <b>👨‍🏫 Love for teaching</b>
-- <b>🌐 Web applications developer</b>
-- <b>🔭 I’m currently working as freelancer and consultant</b>
+- <b>💻 Passionate about software engineering</b>
+- <b>👨‍🏫 Love for teaching: programming tutor</b>
+- <b>🌐 Web applications development, used by thousands of users</b>
+- <b>💼 Over eight years working for industrial and pharmaceutical industries</b>
+- <b>🔭 Working as freelancer and consultant</b>
 
 <h2>🚀 Software Projects:</h2>
 
