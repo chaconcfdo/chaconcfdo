@@ -2,11 +2,11 @@
 
 <h2>🥷 About me:</h2>
 
-- <b>💻 Passionate about software engineering</b>
-- <b>👨‍🏫 Love for teaching: programming tutor</b>
-- <b>🌐 Web applications development, used by thousands of users</b>
-- <b>💼 Over eight years working for industrial and pharmaceutical industries</b>
-- <b>🔭 Working as freelancer and consultant</b>
+- <b>💻 Passionate about software engineering, programming, tech.</b>
+- <b>👨‍🏫 Love for teaching: programming tutor (with a degree in educational sciences)</b>
+- <b>🌐 Web applications development: +100 projects used by thousands of users</b>
+- <b>💼 Working for many industries as banks, pharmaceutical and government institutions</b>
+- <b>🔭 Also, Working as freelancer and consultant</b>
 - <b>⚡ Fun fact: Airplane pilot student 😎✈️</b>
 
 
