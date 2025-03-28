@@ -2,12 +2,13 @@
 
 <h2>🥷 About me:</h2>
 
-- <b>💻 Passionate about software engineering, programming, tech.</b>
-- <b>👨‍🏫 Love for teaching: programming tutor (with a degree in educational sciences)</b>
-- <b>🌐 Web applications development: +100 projects used by thousands of users</b>
-- <b>💼 Working for many industries as banks, pharmaceutical and government institutions</b>
-- <b>🔭 Also, Working as freelancer and consultant</b>
-- <b>⚡ Fun fact: Airplane pilot student 😎✈️</b>
+• 💻 Passionate about programming and technology. <br>
+• 👨‍🏫 Love for teaching: Programming tutor (degree in Education).<br>
+• 💯 Over 100 projects used by thousands of users.<br>
+• 💼 Work as an outsourcing software engineer for industries such as banking, pharmaceuticals, government institutions, and others.<br>
+• 🧑‍🏭 Freelancer and consultant.<br>
+• 🏆 Multiple recognitions: responsibility, time management, leadership, excellence in delivery, etc.<br>
+• ⚡ Fun fact: Aviation student😎✈️<br>
 
 
 <h2>🚀 Software Projects:</h2>
