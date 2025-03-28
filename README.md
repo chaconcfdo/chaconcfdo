@@ -7,6 +7,8 @@
 - <b>🌐 Web applications development, used by thousands of users</b>
 - <b>💼 Over eight years working for industrial and pharmaceutical industries</b>
 - <b>🔭 Working as freelancer and consultant</b>
+- <b>⚡ Fun fact: Airplane pilot student 😎✈️</b>
+
 
 <h2>🚀 Software Projects:</h2>
 
