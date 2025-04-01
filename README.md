@@ -18,18 +18,16 @@
 - <b>Architecture patterns</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 
-<hr>
 <h3>🧪 Testing:</h3>
 
 - <b>Unit testing</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-<hr>
+
 <h3>📜 Documentation:</h3>
 
 - <b>Guide</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
- 
- <hr>
+
 <h3>⏳ Project Management:</h3>
 
 - <b>Software estimation</b>
