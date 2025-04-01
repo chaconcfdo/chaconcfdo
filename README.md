@@ -9,7 +9,7 @@
 • 🏆 Multiple recognitions: responsibility, time management, leadership, excellence in delivery, etc.<br>
 • ⚡ Fun fact: Aviation student😎✈️<br>
 
-<h2>🚀 To see my projects portfolio <a href="/project-portfolio">click here</a>!</h2>
+<h2>🚀 To see my projects portfolio <a href="https://github.com/chaconcfdo/project-portfolio">click here</a>!</h2>
 
 <h2>🗼 Teaching elements:</h2>
 
