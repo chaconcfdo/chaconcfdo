@@ -6,50 +6,31 @@
 • 👨‍🏫 Love for teaching: Programming tutor (degree in Education).<br>
 • 💯 Over 100 projects used by thousands of users.<br>
 • 💼 Work as an outsourcing software engineer for industries such as banking, pharmaceuticals, government institutions, and others.<br>
-• 🧑‍🏭 Freelancer and consultant.<br>
 • 🏆 Multiple recognitions: responsibility, time management, leadership, excellence in delivery, etc.<br>
 • ⚡ Fun fact: Aviation student😎✈️<br>
 
+<h2>🚀 To see my projects portfolio <a href="/project-portfolio">click here</a>!</h2>
 
-<h2>🚀 Software Projects:</h2>
-
-- <b>Own software</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>C# .Net</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>PHP</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>Python</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>SQL & Mysql</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>React</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>Software development, good practices and performance</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>Web APIs</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-- <b>Code versioning</b>
-  - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
- 
-<h2>🗼 Software architecture:</h2>
+<h2>🗼 Teaching elements:</h2>
 
 - <b>Design patterns</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 - <b>Architecture patterns</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
 
-<h2>🧪 Testing:</h2>
+<hr>
+<h3>🧪 Testing:</h3>
 
 - <b>Unit testing</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
-
-<h2>📜 Documentation:</h2>
+<hr>
+<h3>📜 Documentation:</h3>
 
 - <b>Guide</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
  
-<h2>⏳ Project Management:</h2>
+ <hr>
+<h3>⏳ Project Management:</h3>
 
 - <b>Software estimation</b>
   - [In progress...](https://www.linkedin.com/in/ericarpiocv/)
